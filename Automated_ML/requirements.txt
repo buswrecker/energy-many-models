@@ -1,0 +1,10 @@
+azureml-sdk[automl]
+azureml-pipeline-steps
+pyarrow>=0.17.0
+py-cpuinfo==5.0.0
+pandas==0.23.4
+numpy~=1.16.0
+pandas>=0.22.0,<=0.23.4
+fbprophet==0.5
+py-xgboost==0.90
+
